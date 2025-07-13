@@ -40,17 +40,18 @@ This list is also available online at: https://resources.osucord.moe/
 - [osu! World](https://osuworld.octo.moe/) - Provides provincial, state, and/or regional leaderboards
 - [osu!Skills](https://osuskills.com/) - Ranking based on individual skills
 - [osu!snipe](https://snipe.huismetbenen.nl/rankings/all) - Website for tracking various leaderboards, such as country #1 rankings
+- [Relaxation Vault](https://rx.stanr.info/) - osu!lazer relax leaderboard
 ---
 ### Alternative Clients
 - [osu!lazer](https://github.com/ppy/osu) - Official rewrite of the game with a modern design, a bunch of new mods and features
 - [McOsu](https://store.steampowered.com/app/607260/McOsu/) - osu! clone with various training tools and VR support
-- [Web osu!mania](https://web-osu-mania.pages.dev/) - Play osu!mania in the browser
+- [Web osu!mania](https://webosumania.com/) - Play osu!mania in the browser
 - [osu!droid](https://osudroid.moe/) - osu! clone for Android devices
 ---
 ### Training Tools
 - [osu!Trainer](https://github.com/FunOrange/osu-trainer) - A program that allows you to modify the difficulty of a beatmap very quickly and easily
 - [cosu!Trainer](https://github.com/hwsmm/cosutrainer) - osu!Trainer alternative for Linux, written in C
-- [Shikke's Anti-Mindblock](https://shikkesora.com/downloads) - A tool to quickly flip your monitor upside-down to help with mind-block
+- [Shikke's Anti-Mindblock](https://github.com/ShikkesoraSIM/anti-mindblock/releases/latest) - A tool to quickly flip your monitor upside-down to help with mind-block
 ---
 ### Guides
 - [khz's streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) - A guide on how to get better at streaming
@@ -70,7 +71,6 @@ This list is also available online at: https://resources.osucord.moe/
 - [Advanced in-game/web search](https://osu.ppy.sh/wiki/en/Beatmap_search) - Wiki article on how to use the advanced search features in-game and on the website search bar
 - [osu!re:search](https://search.huismetbenen.nl/) - Website with advanced beatmap search options and filters
 - [osu!Collector](https://osucollector.com/) - Beatmap collections from the members of the osu! community
-- [OMDB](http://omdb.nyahh.net/descriptors/) - Beatmaps categorized by various descriptors such as gimmicks, styles, skillsets, and more
 - [osu!pps](https://osu-pps.com/#/osu/maps) - Website for finding common farm maps within your skill range
 - [osu! Beatmap Atlas](https://osu-atlas.ameo.dev/) - A map that groups similar beatmaps together in space
 ---
@@ -120,7 +120,6 @@ This list is also available online at: https://resources.osucord.moe/
 - [Awesome osu! tournaments](https://github.com/MiraiSubject/awesome-osu-tournaments) - A collection of useful tools and resources for managing an osu! tournament
 - [Community tournaments forum](https://osu.ppy.sh/community/forums/55) - Forum for the community run tournaments, must be listed here for a chance to be badged
 - [osu!Collector Tournaments](https://osucollector.com/tournaments) - Repository of map pools from various concluded tournaments
-- [osu! Tournament Union Database](https://otu.stagec.xyz/) - A database of maps used in various tournaments with difficulty and skillset filters
 - [Mario564's Team Tournament Template](https://l-mario564.github.io/Team-Tournament-Spreadsheet-Documentation/index.html) - A Google Sheets template to manage a team's availability, tryout map pools, compare your teams's and opponent scores
 - [Squink's Tournament History Template](https://docs.google.com/spreadsheets/d/18UWiooGGDMMkltJGm_Td1b72MVRnQQ5ceS21w2zm16U/edit?gid=230730286#gid=230730286) - A Google Sheets template for tracking personal tournament history
 ---
